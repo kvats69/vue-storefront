@@ -93,7 +93,7 @@ Vue Storefront is an ecosystem of Open Source tools to build fast and feature-ri
     &nbsp;&nbsp;
     <a title="Sylius" target="_blank" href="https://github.com/vuestorefront-community/sylius">
         <img alt="Sylius" width="75" src="https://user-images.githubusercontent.com/1626923/161141058-8f6a4a8e-2c6f-402e-b19b-892c7acec77f.png" />
-    </a>
+    </a> 
  </p>
  <br />
 <p align="center">
